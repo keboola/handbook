@@ -14,22 +14,22 @@ P.S. As stated above: we won’t implement any sort of expectations around what 
 
 ## A. KEBOOLA PHILOSOPHY AND VALUES
 
-### Care, love and respect 
+#### Care, love and respect 
 Act with care, love and respect when interacting with our colleagues, our customers and the world. “You don’t know what you don’t know”, so be patient to help everyone understand the Keboola way. 
 
-### No BS 
+#### No BS 
 We promote an open environment: open to critique, open to change, open to coaching. We own our mistakes and learn from them. No need to hide behind niceties, instead offer constructive feedback to address the problem. We value (sometimes brutal) honesty.
 
-### Get shit done and do a bit more 
+#### Get shit done and do a bit more 
 Once you start something, it’s YOUR job to take initiative and finish it. Doing just what’s expected is never enough. When we go the extra mile, when we’re flexible and go beyond what’s expected - that’s when we add value and win. If it’s worth it, it makes sense. 
 
-### Create and innovate 
+#### Create and innovate 
 Explore, build and innovate - for us, for our customers - to always move forward. Have FUN with it. Be proud of what we produce. Be obsessed about things that make sense. We’re trying to create products that truly move the needle. Observe systems and always make them better.
 
-### Learn! 
+#### Learn! 
 Be a sponge! Have a growth mindset! Be proactive and naturally interested in the things around you - because let’s face it life is just better that way :) Become an expert and share your expertise with your colleagues and clients. When we aren’t learning, we are failing.
 
-### One team 
+#### One team 
 Our colleagues are spread all across the world. We don’t always have to agree, but we have to align. We’re all on this ride together.
 
 To sum it all up to quote the infamous Buddha (it was Buddha, right?)… “Don’t be a dick.”
