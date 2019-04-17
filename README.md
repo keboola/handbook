@@ -106,7 +106,7 @@ Even though the information systems evolve and change over time, here’s what w
 
 We’ve got a whole document showing you how to set up your security and computers, but you still might need a little help! If you do, reach out to Petr Simecek (EU) or Martin Fiser (NA):
 
-LINK: Keboola Internal Security Standards
+[Keboola Internal Security Standards](https://github.com/keboola/handbook/blob/master/Security%20Standard.md)
 
 ## D. WORKING & COMPENSATION
 
@@ -128,7 +128,7 @@ The beauty of working in a tech company born in the cloud is that we’re pretty
 
 Keboola will reimburse team members for all approved necessary and reasonable expenses (sorry - not paying for any tickets to Disney World or for your Netflix subscription) incurred for Keboola purposes. In order to get paid back in a timely manner, properly document your expense report and submit to your Circle Leader for approval to be granted at least one week before the next scheduled payday. Otherwise, you’ll just be sitting around longer waiting for your money!
 
-LINK: Keboola Expense Reimbursement Form
+[Keboola Expense Reimbursement Form](https://docs.google.com/spreadsheets/d/1yp6Su_6mSYAn_a--mwPrsbzc9fsMhQ9pekKwRDI_zKg/edit?usp=drive_open&ouid=103308068379278501745)
 
 #### Approval Processes for Purchases
 
@@ -162,7 +162,7 @@ Keboola may offer educational assistance to those who wish to improve their job-
 1. You must obtain the approval of your Circle Lead or department head and the Human Resources Manager **prior** to enrollment. Please use the Application for Educational Assistance for this. To insure reimbursement, this form must be completed and submitted **prior** to enrollment in a course or seminar.
 1. After you have completed the course, final grade verification and receipts for reimbursable costs must be forwarded to the Human Resources Manager.
 
-The form can be found here: LINK Education Assistance Application
+The form can be found here: [Education Assistance Application](https://docs.google.com/document/d/1OzL85hwACTJVl1GMgubwkjRKJJ0x3babxgfPRBdE-qI/edit)
 
 ## F. TIME OFF (HOLIDAYS, VACATIONS & LEAVES)
 
