@@ -24,7 +24,7 @@ We promote an open environment: open to critique, open to change, open to coachi
 Once you start something, it’s YOUR job to take initiative and finish it. Doing just what’s expected is never enough. When we go the extra mile, when we’re flexible and go beyond what’s expected - that’s when we add value and win. If it’s worth it, it makes sense. 
 
 #### Create and innovate 
-Explore, build and innovate - for us, for our customers - to always move forward. Have FUN with it. Be proud of what we produce. Be obsessed about things that make sense. We’re trying to create products that truly move the needle. Observe systems and always make them better.
+Explore, build and innovate - for us, for our customers - to always move forward. Have FUN with it. Be proud of what we produce. Be **obsessed** about things that make sense. We’re trying to create products that truly move the needle. Observe systems and always make them better.
 
 #### Learn! 
 Be a sponge! Have a growth mindset! Be proactive and naturally interested in the things around you - because let’s face it life is just better that way :) Become an expert and share your expertise with your colleagues and clients. When we aren’t learning, we are failing.
@@ -95,8 +95,8 @@ I case you didn’t know HOW TO USE THE DISHWASHER: 1. Open it. 2. Insert item i
 Even though the information systems evolve and change over time, here’s what we’re working with today:
 - Google Suite (emails, calendars, document storage)
 - 1Password for teams (password management)
-- Slack (communication) Keboola Global: https://keboolaglobal.slack.com 
-- Metronome for quarterly planning and goals
+- Slack (communication) [Keboola Global](https://keboolaglobal.slack.com )
+- [Metronome](https://metronomesoftware.com) for quarterly planning and goals
 - Task Management and tracking system (Asana, Paymo)
 - Salesforce (CRM)
 - Asana for project management
