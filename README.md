@@ -236,7 +236,3 @@ Since the information, policies, and benefits described herein are subject to ch
 Furthermore, I understand that this handbook is neither a contract of employment nor a legally binding employment agreement
 
 I have received a copy of the Keboola’s This is How We Roll Handbook V5 on the date listed below. I understand that I am expected to read the entire handbook. I understand that this form will be retained in my personnel file.
-
- 
-......................
-Employee Signature
