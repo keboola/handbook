@@ -120,3 +120,9 @@ Log in via Google account to Keboola Global Slack via an [automatic sign-up link
 1. Run antivirus update (update interval not exceeding 2 days)
 1. Delete downloaded data not used in past 60 days
 1. Go through and delete unnecessary logins from [1Password Watchtower](https://support.1password.com/watchtower/), perform a security check and fix any issues there
+
+## IN CASE OF ISSUE
+
+1. announce issue to Keboola Global Slack to #security channel
+1. if not having access to Keboola Global Slack, contact your Circle Leader via phone and announce issue to support@keboola.com if possible
+1. support immediately suspend your account and initiate safe-recovery
