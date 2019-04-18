@@ -15,10 +15,10 @@ Formally defined rules of security, technical setup and expected behaviour. Mand
 ### Computer:
 
 1. Turn on hard drive encryption
-  1. Windows: BitLocker
-  1. Mac: FileVault
-  1. Linux: cryptmount, etc.
-  1. Chromebook: Check the SD card encryption
+    * Windows: BitLocker
+    * Mac: FileVault
+    * Linux: cryptmount, etc.
+    * Chromebook: Check the SD card encryption
 1. Strong password to your computer you [can easily remember](https://support.1password.com/strong-master-password/)
 1. Windows: Use anti-virus SW (update interval not exceeding 2 days)
 1. Turn on Firewall on Mac (turned off by default)
@@ -29,18 +29,17 @@ Formally defined rules of security, technical setup and expected behaviour. Mand
 1. Turn off automatic saving of passwords in the browser.
 1. Turn off automatic opening of downloaded files (in browser settings).
 1. If you run a backup tool on your computer (time machine/windows backup, Backblaze, other offline/online tools)
-  1. make sure the target is encrypted
-  1. An ideal scenario is to not backup any work-related stuff and saves everything in the GDrive in the cloud. None of the files should be stored on the computer anyways.
+    1. make sure the target is encrypted
+    1. An ideal scenario is to not backup any work-related stuff and saves everything in the GDrive in the cloud. None of the files should be stored on the computer anyways.
 
 ### Mobile phone
 
 1. Encrypted storage
-  1. iPhone [Data Encryption](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
-  1. Android [Data Encryption](https://source.android.com/security/encryption/)
+    * iPhone [Data Encryption](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
+    * Android [Data Encryption](https://source.android.com/security/encryption/)
 1. Lock your device by fingerprint or pattern, use pin as the last possibility
 1. After turning the screen off, have your mobile to lock itself immediately.
-1. Don't use [smart lock](https://www.digitaltrends.com/mobile/how-to-use-android-smart-lock/) trusted places
-1. Avoid using [smart lock](https://www.digitaltrends.com/mobile/how-to-use-android-smart-lock/) trusted places (automatic login when on the location or presence of particular wifi; BT gadgets are ok if they are worn on the body (watches, etc.)
+1. Don't use [smart lock](https://www.digitaltrends.com/mobile/how-to-use-android-smart-lock/) trusted places (automatic login when on the location or presence of particular wifi; BT gadgets are ok if they are worn on the body (watches, etc.)
  
 ## BEHAVIOUR:
 
@@ -48,15 +47,15 @@ Formally defined rules of security, technical setup and expected behaviour. Mand
 
 1. Do not repeat passwords, generate everything from 1Password
 1. After installing 1Password, PDF with code for "[account recovery](https://support.1password.com/recovery/)" is generated
-  1. It is necessary not to have the PDF on a mobile phone or computer - the best solution is to print it out and have it somewhere at home. After printing it out, download the file from the computer and empty the trash bin
+    * It is necessary not to have the PDF on a mobile phone or computer - the best solution is to print it out and have it somewhere at home. After printing it out, download the file from the computer and empty the trash bin
 1. Use "[1Password Travel Mode](https://docs.google.com/document/d/10lFjHssCcwJUVOqoAzzW1WZi8MqEvPGM_DPja0gbw-Q/edit#)": you should have password connected to Keboola clients in a vault marked as Travel unsafe and set 1password to "[Travel Mode](https://support.1password.com/travel-mode/)" before departure. This will delete the Travel unsafe vaults, so if the security check makes you open your computer, they won't find the passwords in there.
 
 ### Login
 
 1. If the service allows, always opt for 2-factor authentication [2FA](https://www.google.com/landing/2step/)
 1. Use [2FA](https://docs.google.com/document/d/10lFjHssCcwJUVOqoAzzW1WZi8MqEvPGM_DPja0gbw-Q/edit#)
-  1. Google G Suite requires 2FA for all accounts (new users have to activate it within 24 hours following the activation) 
-  1. Always download your backup codes and save them into 1Password Secure notes (these are used instead of generated code - [google how-to](https://support.google.com/accounts/answer/1187538?co=GENIE.Platform%3DDesktop&hl=en))
+    1. Google G Suite requires 2FA for all accounts (new users have to activate it within 24 hours following the activation) 
+    1. Always download your backup codes and save them into 1Password Secure notes (these are used instead of generated code - [google how-to](https://support.google.com/accounts/answer/1187538?co=GENIE.Platform%3DDesktop&hl=en))
 
 ### Data
 
@@ -82,13 +81,13 @@ Log in via Google account to Keboola Global Slack via an [automatic sign-up link
 
 1. As Salesperson/back-office  
 1. Has access to KBC
-  1. Uses 2FA
-  1. Does not use any cloud SQL managers that remember the password for SQL workspaces ([JackDB](https://www.jackdb.com/), [Navicat Cloud](https://www.navicat.com/en/navicat-cloud), etc.)
+    1. Uses 2FA
+    1. Does not use any cloud SQL managers that remember the password for SQL workspaces ([JackDB](https://www.jackdb.com/), [Navicat Cloud](https://www.navicat.com/en/navicat-cloud), etc.)
 1. Does not use API tools saving the KBC tokens to a cloud (Postman)
-  1. [Paw](https://paw.cloud/) is ok, but it's necessary to have the cfg file on an encrypted drive
-  1. Tips and Tricks for [Paw here](https://docs.google.com/document/d/1cixfHGJfRaJJpZMq-bAKHJLSSpSSwhMnwWrBkUluIuA/edit)
+    1. [Paw](https://paw.cloud/) is ok, but it's necessary to have the cfg file on an encrypted drive
+    1. Tips and Tricks for [Paw here](https://docs.google.com/document/d/1cixfHGJfRaJJpZMq-bAKHJLSSpSSwhMnwWrBkUluIuA/edit)
 1. Never shares sensitive data via email/FB messenger etc.
-  1. The password can be shared via FB messenger etc. if there is a change of password required after the first login.
+    1. The password can be shared via FB messenger etc. if there is a change of password required after the first login.
 1. For sharing sensitive data with a client (or the other way around) always use [1Password Guest Account](https://support.1password.com/guests-teams/) Do not use https://passion.heu.cz/ or similar for one-time password sending, since Keboola does not have visibility in the actual innards of the service
 1. If some sensitive data from a client are received, they immediately ask for revoke and implement 1Password
 1. When installing libraries for coding, they verify the identity of the publisher and code (e.g. public MD5 of the release, signatures etc.)
@@ -99,7 +98,7 @@ Log in via Google account to Keboola Global Slack via an [automatic sign-up link
 
 1. Same as above
 1. Does not use access to production infrastructure
-  1. If they need to access production, they always log the reasons to Slack channel "#aws_console_login"
+    1. If they need to access production, they always log the reasons to Slack channel "#aws_console_login"
 1. They have written confirmation for all the requests for accessing data that bypass KBC
 1. Group of people with access to production infrastructure uses HW OTP like [YubiKey FIPS](https://www.yubico.com/products/yubikey-fips/) or [Ledger Nano S](https://support.ledgerwallet.com/hc/en-us/articles/115005198545-Set-up-Fido-U2F-app)
 1. CloudTrail on
@@ -108,12 +107,12 @@ Log in via Google account to Keboola Global Slack via an [automatic sign-up link
 ## SOCIAL HACKING
 
 1. Never share anything with any person without proper verification
-  1. Never answer questions like: "In which project is Karl active?" or "How many active users do we have?"
-  1. The only exception is a Zendesk ticket created by the admin of a KBC project
-  1. Exception: Zendesk ticket from a verified source
-  1. A lost phone is not a reason for resetting 2FA
-  1. Reset 2FA only once the proper verification took place
-  1. The workaround is to invite the user with lost 2FA with another account (karl+lostphone@gmail.com)
+    1. Never answer questions like: "In which project is Karl active?" or "How many active users do we have?"
+    1. The only exception is a Zendesk ticket created by the admin of a KBC project
+    1. Exception: Zendesk ticket from a verified source
+    1. A lost phone is not a reason for resetting 2FA
+    1. Reset 2FA only once the proper verification took place
+    1. The workaround is to invite the user with lost 2FA with another account (karl+lostphone@gmail.com)
  
 ## MONTHLY HEALTH CHECKS
 1. Run [Windows Update](https://support.microsoft.com/en-us/help/4027667/windows-update-windows-10) / [Apple Update](https://support.apple.com/en-us/HT201222) 
