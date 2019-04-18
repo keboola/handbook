@@ -40,7 +40,7 @@ It is the policy of Keboola Data Services Inc. (“Keboola” or the “Company�
 
 ## Non-Disclosure Agreement (NDA)
 
-Employees & contractors must not misuse confidential information, including internal and client information and communications. It is a condition of employment that the employee signs the [Company Name] Confidentiality and Intellectual Property Assignment Agreement, which will be provided under separate cover. Confidential information generally consists of non-public information about a person or an entity that, if disclosed, could reasonably be expected to place either the person or the entity at risk of criminal or civil liability, or damage the person or entity’s financial standing, employability, privacy or reputation. The Company is bound by law or contract to protect some types of confidential information, and in other instances the Company requires protection of confidential information beyond legal or contractual requirements as an additional safeguard. Confidential information includes but is not limited to: 
+Employees & contractors must not misuse confidential information, including internal and client information and communications. It is a condition of employment that the employee signs the Keboola Confidentiality and Intellectual Property Assignment Agreement, which will be provided under separate cover. Confidential information generally consists of non-public information about a person or an entity that, if disclosed, could reasonably be expected to place either the person or the entity at risk of criminal or civil liability, or damage the person or entity’s financial standing, employability, privacy or reputation. The Company is bound by law or contract to protect some types of confidential information, and in other instances the Company requires protection of confidential information beyond legal or contractual requirements as an additional safeguard. Confidential information includes but is not limited to: 
 - Payroll records, salary, and non-public benefits information 
 - Social Security numbers, driver’s license numbers, state identification card numbers
 - Credit and debit card information, and financial account information 
@@ -80,7 +80,7 @@ Essentially, we have a NO ASSHOLES policy. We acknowledge some jokes might have 
 
 ### Technology Policy
 
-“Network and Electronic Resources”, such as computers, other hardware, software, email, landline and cellular telephones, and Internet access, are some tools that Keboola may provide you so you can actually get your shit done. This also means these resources and related access systems are Keboola property… so use them to work! We can access your. PLEASE don’t download anything illegal or *NSFW* as the kids are saying these days, so we don’t have to take away your access.
+“Network and Electronic Resources”, such as computers, other hardware, software, email, landline and cellular telephones, and Internet access, are some tools that Keboola may provide you so you can actually get your shit done. This also means these resources and related access systems are Keboola property… so use them to work! We can access your device. PLEASE don’t download anything illegal or *NSFW* as the kids are saying these days, so we don’t have to take away your access.
 
 ## C. THE ESSENTIALS
 
