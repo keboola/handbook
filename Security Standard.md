@@ -66,6 +66,45 @@ Formally defined rules of security, technical setup and expected behaviour. Mand
 ### Global Slack
 
 Log in via Google account to Keboola Global Slack via an [automatic sign-up link](https://keboolaglobal.slack.com/signup)
+
+#### Global Slack Rules
+
+To prevent chaos in Channel names, follow the rules:
+
+1. if non-keboola (@keboola.com) users are in the channel, channel name has to be prefixed by **out_**
+1. temporary topics should be covered in channels prefixed by **tmp_**, channel creator is responsible for archiving channel once topic/project is closed
+1. country specific topics are prefixed by region name **ca_**, **cz_**, **uk_**, **us_**
+1. product specific topics are prefixed by **kbc_**
+
+Do not disturb others 
+
+1. automatic DnD is from 8PM to 8AM, you can customise your own settings
+1. try to avoid using @everyone in General channel or @here in all other channels - mention specific users
+1. employ [Slack Groups](https://get.slack.help/hc/en-us/articles/212906697-user-groups)
+    1. groups can be created by Slack Admin or Slack Owner
+    1. existing group can be modified by everyone, except guests
+
+
+Keep discussion readable
+
+1. always react in thread
+1. check out [how thread notifications](https://get.slack.help/hc/en-us/articles/115000769927-Message-and-file-threads#catch-up-on-new-replies) are working
+
+Message retention (required by SOC2)
+
+1. all messages are never deleted
+1. you can edit your message up to 1 hour after posting
+1. messages can be deleted only Slack Admins
+
+Invitations
+
+1. only admins can invite others 
+    1. admins are `@fisa`, `@martin.lepka`, `@pabu01` and `@marcuswong`
+    1. owners are `@martin` and `@padak`
+1. you can mention all slack admins by using keyword `@admins` or owners by `@owners`
+1. Google auth must be used by all users except guests
+1. users can't change their email address
+
  
 ## SALES / BACK OFFICE
 
