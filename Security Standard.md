@@ -69,14 +69,14 @@ Log in via Google account to Keboola Global Slack via an [automatic sign-up link
 
 #### Global Slack Rules
 
-_To prevent chaos in Channel names_
+__To prevent chaos in Channel names__
 
 1. if non-keboola (@keboola.com) users are in the channel, channel name has to be prefixed by **out_**
 1. temporary topics should be covered in channels prefixed by **tmp_**, channel creator is responsible for archiving channel once topic/project is closed
 1. country specific topics are prefixed by region name **ca_** / **cz_** / **uk_** / **us_**
 1. product specific topics are prefixed by **kbc_**
 
-_Do not disturb others_ 
+__Do not disturb others__ 
 
 1. automatic DnD is from 8PM to 8AM, you can customise your own settings
 1. try to avoid using @everyone in General channel or @here in all other channels - mention specific users
@@ -84,18 +84,18 @@ _Do not disturb others_
     1. groups can be created by Slack Admin or Slack Owner
     1. existing group can be modified by everyone, except guests
 
-_Keep discussion readable_
+__Keep discussion readable__
 
 1. always react in thread
 1. check out [how thread notifications](https://get.slack.help/hc/en-us/articles/115000769927-Message-and-file-threads#catch-up-on-new-replies) are working
 
-_Message retention (required by SOC2)_
+__Message retention (required by SOC2)__
 
 1. all messages are never deleted
 1. you can edit your message up to 1 hour after posting
 1. messages can be deleted only Slack Admins
 
-_Invitations_
+__Invitations__
 
 1. only admins can invite others 
     1. admins are `@fisa`, `@martin.lepka`, `@pabu01` and `@marcuswong`
